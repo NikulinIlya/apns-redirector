@@ -6,3 +6,4 @@ vendor/
 *.dylib
 *.test
 *.out
+go.sum
